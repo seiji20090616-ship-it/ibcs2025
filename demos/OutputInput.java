@@ -6,7 +6,7 @@ public class OutputInput
 	
 	public static void main (String[] args)
 	{
-		IBIO.output("Hello");
+		IBIO.output("Hallo");
 		IBIO.output("CS");
 		IBIO.output("World");
 		IBIO.out("Hello");
